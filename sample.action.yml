@@ -6,12 +6,12 @@ inputs:
   input1:
     description: 'The first input parameter.'
     required: true
-    default: 'default1'
+    default: 'default'
 
   input2:
     description: 'The second input parameter.'
     required: false
-    default: 'default2'
+    default: 'default1'
 
 # Outputs define what this action provides to subsequent steps
 outputs:
